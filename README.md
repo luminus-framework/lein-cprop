@@ -3,7 +3,7 @@
 A Leiningen plugin for generating cprop configuration for Luminus.
 
 
-[![Clojars Project](https://img.shields.io/clojars/v/lein-cprop.svg)](https://clojars.org/lein-cprop)
+[![Clojars Project](https://clojars.org/lein-cprop/latest-version.svg)](https://clojars.org/lein-cprop)
 
 
 ## Usage
