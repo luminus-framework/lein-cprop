@@ -1,4 +1,4 @@
-(defproject lein-cprop "1.0.2"
+(defproject lein-cprop "1.0.3"
   :description "Leiningen plugin for cprop"
   :url "https://github.com/tolitius/cprop"
   :license {:name "Eclipse Public License"
