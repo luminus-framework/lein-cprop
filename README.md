@@ -14,6 +14,12 @@ Add the plugin in your `project.clj` `:plugins` vector:
 :plugins [[lein-cprop "latest-version"]]
 ```
 
+You can optionally specify the name of the output file as follows:
+
+```clojure
+:cprop {:config-file "user.edn"}
+```
+
 The plugin will generate a `user.edn` configuration map based on the properties found in the profile that Leiningen is run with.
 
 
